@@ -9,7 +9,7 @@
 ## Prompt(s)
 1. "Given the existing data and the data I imported could you estimate three simple OLS regressions of REIT annual returns on different predictors? The three are: ret (annual) ~ div12m_me (dividend yield), ret (annual) ~ prime_rate (prime loan rate), ret (annual) ~ ffo_at_reit (FFO to assets — fundamental performance)"
 2. "In my report, I need help with the coefficient comparison and slope interpretation parts. Could you explain to me what those are and what numbers to put?"
-3. "What's the R2 across the three models and tell me what the R2 means for this assignment/report"
+3. "Tell me what the R2 means for this assignment/report"
 
 ## Output Summary
 1. It generated the OLS regressions and made the scatter plots for me.
