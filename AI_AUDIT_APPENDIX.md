@@ -19,7 +19,7 @@
 ## Verification & Modifications (Disclose • Verify • Critique)
 - **Verify:** I ran the regression code myself and checked that the coefficient estimates and R2 values matched what Copilot produced. I also compared the regression tables and made sure the scatter plots aligned with the direction of the slopes. 
 - **Critique:** The AI wasn’t explaining things very clearly at first. It mostly gave me the numbers without breaking them down in a simple way, so I had to ask it to explain the coefficient comparison and slope interpretation more clearly so I could actually understand what they meant. After that, it helped define how weak the R2 values were and what that meant for model strength.
-- **Modify:** Honestly, I had to slow down and really think through what the numbers meant because at first I wasn't fully understanding it. I rewrote the explanations in simpler language so I could actually explain them myself if asked. I also added a sentence explaining that the R2 values are really small, so these predictors don’t explain much, because that part wasn’t obvious to me at first. I simplified everything so it made sense to me, not just to the computer.
+- **Modify:** I had to slow down and really think through what the numbers meant because at first I wasn't fully understanding it. I rewrote the explanations in simpler language so I could actually explain them myself if asked. I also added a sentence explaining that the R2 values are really small, so these predictors don’t explain much, because that part wasn’t obvious to me at first. I simplified everything so it made sense to me, not just to the computer.
 
 ## If No AI Tools Used
 
